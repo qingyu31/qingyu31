@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I’m a **freelance creator** with a background as a former **professional software engineer and manager**. 
+
+### 📫 Let’s Connect!
+- 🌐 [https://qingyu31.com]
+- 💼 [https://x.com/qingyu31]
 <!--
 **qingyu31/qingyu31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
